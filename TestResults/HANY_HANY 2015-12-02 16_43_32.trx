@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="d256bebd-8a86-4bda-a59f-9e89c67f26be" name="HANY@HANY 2015-12-02 16:43:32" runUser="HANY\HANY" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="0854da5a-3015-4737-adbf-9cab2d2d836e">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment userDeploymentRoot="C:\Users\HANY\Documents\Stack Builders\PicoPlaca\TestResults" useDefaultDeploymentRoot="false" enabled="false" runDeploymentRoot="HANY_HANY 2015-12-02 16_43_32">
+      <DeploymentItem filename="C:\Users\HANY\Documents\Stack Builders\PicoPlaca\PicoYPlacaForm\bin\Debug\PicoYPlacaNameSpace.exe" />
+      <DeploymentItem filename="C:\Users\HANY\Documents\Stack Builders\PicoPlaca\PicoPlacaClass\bin\Debug\PicoPlacaClass.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-12-02T16:43:32.1650187-05:00" queuing="2015-12-02T16:43:35.5235497-05:00" start="2015-12-02T16:43:35.8985539-05:00" finish="2015-12-02T16:43:53.4733601-05:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="HANY" outcome="Error" timestamp="2015-12-02T16:43:53.4733601-05:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="predictorTest" storage="c:\users\hany\documents\stack builders\picoplaca\picoplaca\bin\debug\picoplaca.dll" id="242ddfbf-663d-fc3b-6ec3-0733360f1cbb">
+      <Execution id="d5f56b6d-8260-4d51-805a-0913bf544501" />
+      <TestMethod codeBase="C:/Users/HANY/Documents/Stack Builders/PicoPlaca/PicoPlaca/bin/Debug/PicoPlaca.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PicoPlacaNameSpaces.UnitTest1, PicoPlaca, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="predictorTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="242ddfbf-663d-fc3b-6ec3-0733360f1cbb" executionId="d5f56b6d-8260-4d51-805a-0913bf544501" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="d5f56b6d-8260-4d51-805a-0913bf544501" testId="242ddfbf-663d-fc3b-6ec3-0733360f1cbb" testName="predictorTest" computerName="HANY" duration="00:00:17.2466462" startTime="2015-12-02T16:43:36.2267139-05:00" endTime="2015-12-02T16:43:53.4733601-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d5f56b6d-8260-4d51-805a-0913bf544501">
+    </UnitTestResult>
+  </Results>
+</TestRun>

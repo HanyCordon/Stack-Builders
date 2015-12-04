@@ -1,0 +1,11 @@
+C:\Users\HANY\Documents\Stack Builders\PicoPlaca\PicoPlaca\obj\Debug\PicoPlaca.csprojResolveAssemblyReference.cache
+C:\Users\HANY\Documents\Stack Builders\PicoPlaca\PicoPlaca\bin\Debug\PicoPlaca.dll
+C:\Users\HANY\Documents\Stack Builders\PicoPlaca\PicoPlaca\bin\Debug\PicoPlaca.pdb
+C:\Users\HANY\Documents\Stack Builders\PicoPlaca\PicoPlaca\bin\Debug\PicoPlacaClass.dll
+C:\Users\HANY\Documents\Stack Builders\PicoPlaca\PicoPlaca\bin\Debug\PicoPlacaClass.pdb
+C:\Users\HANY\Documents\Stack Builders\PicoPlaca\PicoPlaca\obj\Debug\PicoPlaca.dll
+C:\Users\HANY\Documents\Stack Builders\PicoPlaca\PicoPlaca\obj\Debug\PicoPlaca.pdb
+C:\Users\HANY\Documents\Stack Builders\PicoPlaca\PicoPlaca\bin\Debug\PicoYPlacaNameSpace.exe
+C:\Users\HANY\Documents\Stack Builders\PicoPlaca\PicoPlaca\bin\Debug\PicoYPlacaNameSpace.pdb
+C:\Users\HANY\Documents\Stack Builders\PicoPlaca\PicoPlaca\bin\Debug\Predictor.dll
+C:\Users\HANY\Documents\Stack Builders\PicoPlaca\PicoPlaca\bin\Debug\Predictor.pdb

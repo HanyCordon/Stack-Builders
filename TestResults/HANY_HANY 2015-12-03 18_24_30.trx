@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="359527e4-8498-4c53-8f90-ed060c599604" name="HANY@HANY 2015-12-03 18:24:30" runUser="HANY\HANY" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="0854da5a-3015-4737-adbf-9cab2d2d836e">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment userDeploymentRoot="C:\Users\HANY\Documents\Stack Builders\PicoPlaca\TestResults" useDefaultDeploymentRoot="false" enabled="false" runDeploymentRoot="HANY_HANY 2015-12-03 18_24_30">
+      <DeploymentItem filename="C:\Users\HANY\Documents\Stack Builders\PicoPlaca\PicoYPlacaForm\bin\Debug\PicoYPlacaNameSpace.exe" />
+      <DeploymentItem filename="C:\Users\HANY\Documents\Stack Builders\PicoPlaca\PicoPlacaClass\bin\Debug\PicoPlacaClass.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-12-03T18:24:30.3167834-05:00" queuing="2015-12-03T18:24:30.3648888-05:00" start="2015-12-03T18:24:30.3879061-05:00" finish="2015-12-03T18:24:31.0113502-05:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="predictorTest" storage="c:\users\hany\documents\stack builders\picoplaca\picoplaca\bin\debug\picoplaca.dll" id="242ddfbf-663d-fc3b-6ec3-0733360f1cbb">
+      <Execution id="af04dad9-ceb9-4a7e-b2fd-50b9060f2841" />
+      <TestMethod codeBase="C:/Users/HANY/Documents/Stack Builders/PicoPlaca/PicoPlaca/bin/Debug/PicoPlaca.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PicoPlacaNameSpaces.UnitTest1, PicoPlaca, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="predictorTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="242ddfbf-663d-fc3b-6ec3-0733360f1cbb" executionId="af04dad9-ceb9-4a7e-b2fd-50b9060f2841" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="af04dad9-ceb9-4a7e-b2fd-50b9060f2841" testId="242ddfbf-663d-fc3b-6ec3-0733360f1cbb" testName="predictorTest" computerName="HANY" duration="00:00:00.0620242" startTime="2015-12-03T18:24:30.4059201-05:00" endTime="2015-12-03T18:24:30.9713217-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="af04dad9-ceb9-4a7e-b2fd-50b9060f2841">
+    </UnitTestResult>
+  </Results>
+</TestRun>

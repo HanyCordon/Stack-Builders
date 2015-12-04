@@ -1,0 +1,7 @@
+C:\Users\HANY\Documents\Stack Builders\PicoPlaca\Predictor\obj\Debug\Predictor.csprojResolveAssemblyReference.cache
+C:\Users\HANY\Documents\Stack Builders\PicoPlaca\Predictor\bin\Debug\Predictor.dll
+C:\Users\HANY\Documents\Stack Builders\PicoPlaca\Predictor\bin\Debug\Predictor.pdb
+C:\Users\HANY\Documents\Stack Builders\PicoPlaca\Predictor\bin\Debug\PicoPlacaClass.dll
+C:\Users\HANY\Documents\Stack Builders\PicoPlaca\Predictor\bin\Debug\PicoPlacaClass.pdb
+C:\Users\HANY\Documents\Stack Builders\PicoPlaca\Predictor\obj\Debug\Predictor.dll
+C:\Users\HANY\Documents\Stack Builders\PicoPlaca\Predictor\obj\Debug\Predictor.pdb

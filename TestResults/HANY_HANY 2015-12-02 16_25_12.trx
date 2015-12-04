@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="0891c30f-a630-46f1-8d3c-cbcee1d2b4cc" name="HANY@HANY 2015-12-02 16:25:12" runUser="HANY\HANY" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="0854da5a-3015-4737-adbf-9cab2d2d836e">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="HANY_HANY 2015-12-02 16_25_12">
+      <DeploymentItem filename="C:\Users\HANY\Documents\Stack Builders\PicoPlaca\PicoYPlacaForm\bin\Debug\PicoYPlacaNameSpace.exe" />
+      <DeploymentItem filename="C:\Users\HANY\Documents\Stack Builders\PicoPlaca\PicoPlacaClass\bin\Debug\PicoPlacaClass.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-12-02T16:25:12.3263782-05:00" queuing="2015-12-02T16:25:12.3663995-05:00" start="2015-12-02T16:25:12.3744324-05:00" finish="2015-12-02T16:25:13.1315638-05:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="predictorTest" storage="c:\users\hany\documents\stack builders\picoplaca\picoplaca\bin\debug\picoplaca.dll" id="242ddfbf-663d-fc3b-6ec3-0733360f1cbb">
+      <Execution id="6c7e10d4-007c-4b8f-9384-e5013e81f8f5" />
+      <TestMethod codeBase="C:/Users/HANY/Documents/Stack Builders/PicoPlaca/PicoPlaca/bin/Debug/PicoPlaca.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PicoPlacaNameSpaces.UnitTest1, PicoPlaca, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="predictorTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="242ddfbf-663d-fc3b-6ec3-0733360f1cbb" executionId="6c7e10d4-007c-4b8f-9384-e5013e81f8f5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="6c7e10d4-007c-4b8f-9384-e5013e81f8f5" testId="242ddfbf-663d-fc3b-6ec3-0733360f1cbb" testName="predictorTest" computerName="HANY" duration="00:00:00.1639290" startTime="2015-12-02T16:25:12.3900610-05:00" endTime="2015-12-02T16:25:13.1003066-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6c7e10d4-007c-4b8f-9384-e5013e81f8f5">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;(null)&gt;. Actual:&lt;3&gt;. No puede viajar, tiene pico y placa.</Message>
+          <StackTrace>   at PicoPlacaNameSpaces.UnitTest1.predictorTest() in C:\Users\HANY\Documents\Stack Builders\PicoPlaca\PicoPlaca\UnitTest1.cs:line 51
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

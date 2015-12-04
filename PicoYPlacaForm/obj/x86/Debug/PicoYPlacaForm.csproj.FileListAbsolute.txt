@@ -1,0 +1,12 @@
+C:\Users\HANY\Documents\Stack Builders\PicoPlaca\PicoYPlacaForm\obj\x86\Debug\PicoYPlacaForm.csproj.GenerateResource.Cache
+C:\Users\HANY\Documents\Stack Builders\PicoPlaca\PicoYPlacaForm\bin\Debug\PicoPlacaClass.dll
+C:\Users\HANY\Documents\Stack Builders\PicoPlaca\PicoYPlacaForm\bin\Debug\PicoPlacaClass.pdb
+C:\Users\HANY\Documents\Stack Builders\PicoPlaca\PicoYPlacaForm\obj\x86\Debug\PicoYPlacaForm.csprojResolveAssemblyReference.cache
+C:\Users\HANY\Documents\Stack Builders\PicoPlaca\PicoYPlacaForm\obj\x86\Debug\PicoYPlacaNameSpace.PicoYPlacaForm.resources
+C:\Users\HANY\Documents\Stack Builders\PicoPlaca\PicoYPlacaForm\obj\x86\Debug\PicoYPlacaNameSpace.Properties.Resources.resources
+C:\Users\HANY\Documents\Stack Builders\PicoPlaca\PicoYPlacaForm\bin\Debug\PicoYPlacaNameSpace.exe
+C:\Users\HANY\Documents\Stack Builders\PicoPlaca\PicoYPlacaForm\bin\Debug\PicoYPlacaNameSpace.pdb
+C:\Users\HANY\Documents\Stack Builders\PicoPlaca\PicoYPlacaForm\obj\x86\Debug\PicoYPlacaNameSpace.exe
+C:\Users\HANY\Documents\Stack Builders\PicoPlaca\PicoYPlacaForm\obj\x86\Debug\PicoYPlacaNameSpace.pdb
+C:\Users\HANY\Documents\Stack Builders\PicoPlaca\PicoYPlacaForm\bin\Debug\Predictor.dll
+C:\Users\HANY\Documents\Stack Builders\PicoPlaca\PicoYPlacaForm\bin\Debug\Predictor.pdb

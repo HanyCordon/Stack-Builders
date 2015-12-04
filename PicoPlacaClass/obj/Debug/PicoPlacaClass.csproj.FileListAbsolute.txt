@@ -1,0 +1,4 @@
+C:\Users\HANY\Documents\Stack Builders\PicoPlaca\PicoPlacaClass\bin\Debug\PicoPlacaClass.dll
+C:\Users\HANY\Documents\Stack Builders\PicoPlaca\PicoPlacaClass\bin\Debug\PicoPlacaClass.pdb
+C:\Users\HANY\Documents\Stack Builders\PicoPlaca\PicoPlacaClass\obj\Debug\PicoPlacaClass.dll
+C:\Users\HANY\Documents\Stack Builders\PicoPlaca\PicoPlacaClass\obj\Debug\PicoPlacaClass.pdb
